@@ -2,7 +2,9 @@
 Tugas Kecil 1 Strategi Algoritma 
 
 AUTHOR
+
 Leonardus Brain Fatolosja
+
 13524146
 
 Program ini merupakan Queen Game Solver yang memberikan penyelesaian terhadap penempatan Queen di dalam sebuah papan n x n dengan area warna berjumlah n juga. Queen berjumlah n harus ditempatkan di papan dengan syarat tidak boleh berada di baris, kolom, dan daerah yang sama.
