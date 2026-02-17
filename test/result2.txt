@@ -1,0 +1,6 @@
+Hasil untuk 3 x 3
+#BB
+B#A
+BC#
+Jumlah percobaan: 0
+Waktu total: 1 ms

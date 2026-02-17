@@ -1,0 +1,8 @@
+Hasil untuk 5 x 5
+#AAAA
+B#BBB
+CC#CC
+DDD#D
+EEEE#
+Jumlah percobaan: 0
+Waktu total: 1 ms

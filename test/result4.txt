@@ -1,0 +1,5 @@
+Hasil untuk 2 x 2
+#B
+A#
+Jumlah percobaan: 0
+Waktu total: 1 ms

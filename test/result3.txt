@@ -1,0 +1,7 @@
+Hasil untuk 4 x 4
+A#CD
+ABC#
+AB#C
+#AAA
+Jumlah percobaan: 25
+Waktu total: 1 ms
