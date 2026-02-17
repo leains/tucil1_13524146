@@ -228,7 +228,7 @@ int main(){
         return 0;
     }
 
-    Result RL[area];
+    Result *RL = malloc(area * sizeof(Result));
     for (int a=0;a<area;a++) {
         RL[a].area = '0';
         RL[a].point.x = -1;
